@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 def histogram(list):
     for i in range(len(list)):
         for j in range(int(list[i])):
